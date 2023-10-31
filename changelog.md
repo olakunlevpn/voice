@@ -20,7 +20,7 @@
 
 ---
 
-### Version 4.1.4 23 Sep 2022
+### Version 4.1.4 23 Sep 2022 <span style="color:red">[Urgent Update]</span>
 -  [Fixed] multi user delete was not working from admin panel.
 -  [Fixed] slow load when visiting the website first time.
 -  [Fixed] br tag showing on user about, pages, groups and products.
