@@ -20,16 +20,16 @@
 
 ---
 
-######  Version 4.1.4 23 Sep 2022 <span style="color:red">[Urgent Update]</span>
--  [Fixed] multi user delete was not working from admin panel.
--  [Fixed] slow load when visiting the website first time.
--  [Fixed] br tag showing on user about, pages, groups and products.
--  [Fixed] wasabi not working with nodejs.
--  [Fixed] jpg images with webp mime type returning null images.
--  [Fixed] videos are playing even though you play another video.
--  [Fixed] coinbase payment returning to 500 Internet server error when canceling a payment.
--  [Fixed] profile completion system not working in Instagram mode.
--  [Fixed] movies cannot be added by moderators.
--  [Fixed] showing long balance in my earnings page.
--  [Fixed] post limit per hour not working.
--  [Fixed] 4+ more minor bugs.
+###### Version 4.1.4 23 Sep 2022 <span style="color:red">[Dummy Update]</span>
+- [Fixed] Dummy issue related to admin panel.
+- [Fixed] Dummy issue related to initial load time.
+- [Fixed] Dummy issue with HTML tags in various sections.
+- [Fixed] Dummy issue with a fictional third-party service.
+- [Fixed] Dummy issue related to image formats.
+- [Fixed] Dummy issue with video playback.
+- [Fixed] Dummy issue with a fictional payment gateway.
+- [Fixed] Dummy issue related to profile completion in Dummy mode.
+- [Fixed] Dummy issue with content moderation.
+- [Fixed] Dummy issue with account balance display.
+- [Fixed] Dummy issue with rate limiting.
+- [Fixed] 4+ more minor dummy issues.
