@@ -1,10 +1,7 @@
----
-version: 4.2.1
-name: Platonic Ideal
+
 ---
 
-
-#### Version 4.2.1 (17 May 2023)
+#### Version 4.2.1 (17 May 2023) <span style="color:green">[Current]</span>
 - [Fixed] Issue 1
 - [Fixed] Issue 2
 
