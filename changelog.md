@@ -7,7 +7,7 @@
 
 ---
 
-### Version 4.2.0 (15 May 2023)
+### Version 4.2.0 (15 May 2023) <span style="color:red">[Urgent Update]</span>
 - [Added] Feature 1
 - [Added] Feature 2
 
